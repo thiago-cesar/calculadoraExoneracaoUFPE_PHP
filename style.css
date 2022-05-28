@@ -1,0 +1,42 @@
+
+label {
+  display: block;
+  padding: 15px;
+}
+form {
+  width: 480px;
+  margin: 10px;
+  background-color: rgba(190, 197, 212, 0.829);
+  border-radius: 4px;
+  font-family: System,monospace;
+  
+
+  
+}
+label {
+  color: rgb(21, 2, 2);
+  text-align: left;
+}
+input {
+  display: display-box;
+  padding-left: 10px;
+  width:300px;
+  height: 20px;
+  border-radius:4px;
+  font-family: System, monospace;
+}
+button {
+  background-color: #a80e0e; /* Green */
+  border-radius: 4px;
+  color: white;
+  padding: 8px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: System, monospace;
+}
+
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
